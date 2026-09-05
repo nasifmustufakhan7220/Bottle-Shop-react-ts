@@ -12,7 +12,7 @@ export interface BottleTypes {
         currency: "USD"
       },
       capacity: {
-        value: 750,
+        value: number,
         unit: "ml"
       },
       category: {
