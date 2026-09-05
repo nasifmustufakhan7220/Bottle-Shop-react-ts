@@ -1,0 +1,759 @@
+{
+  "bottles": [
+    {
+      "id": "b001",
+      "name": {
+        "common": "Hydro Steel Bottle",
+        "official": "Hydro Steel Insulated Water Bottle"
+      },
+      "brand": {
+        "name": "HydroMax"
+      },
+      "price": {
+        "amount": 35,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 750,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Water Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Black", "Silver", "Blue"],
+      "features": ["Insulated", "Leak Proof", "Reusable"],
+      "ratings": {
+        "average": 4.8,
+        "count": 245
+      },
+      "stock": {
+        "available": true,
+        "quantity": 32
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+    {
+      "id": "b002",
+      "name": {
+        "common": "Classic Nalgene Bottle",
+        "official": "Nalgene Classic Reusable Water Bottle"
+      },
+      "brand": {
+        "name": "Nalgene"
+      },
+      "price": {
+        "amount": 22,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 1000,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Water Bottle"
+      },
+      "material": {
+        "primary": "Plastic"
+      },
+      "colors": ["Blue", "Green", "Purple"],
+      "features": ["BPA Free", "Lightweight", "Reusable"],
+      "ratings": {
+        "average": 4.5,
+        "count": 189
+      },
+      "stock": {
+        "available": true,
+        "quantity": 45
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1550505095-81378a674395"
+      }
+    },
+    {
+      "id": "b003",
+      "name": {
+        "common": "Adventure Thermal Bottle",
+        "official": "Adventure Stainless Steel Thermal Bottle"
+      },
+      "brand": {
+        "name": "Stanley"
+      },
+      "price": {
+        "amount": 48,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 1200,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Thermal Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Green", "Black"],
+      "features": ["Double Wall", "Insulated", "Leak Proof"],
+      "ratings": {
+        "average": 4.9,
+        "count": 512
+      },
+      "stock": {
+        "available": true,
+        "quantity": 18
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed0"
+      }
+    },
+    {
+      "id": "b004",
+      "name": {
+        "common": "Sports Hydration Bottle",
+        "official": "Adidas Sports Hydration Bottle"
+      },
+      "brand": {
+        "name": "Adidas"
+      },
+      "price": {
+        "amount": 18,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 750,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Sports Bottle"
+      },
+      "material": {
+        "primary": "Plastic"
+      },
+      "colors": ["Red", "Black", "White"],
+      "features": ["BPA Free", "Sports Cap", "Lightweight"],
+      "ratings": {
+        "average": 4.3,
+        "count": 156
+      },
+      "stock": {
+        "available": true,
+        "quantity": 27
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+      }
+    },
+    {
+      "id": "b005",
+      "name": {
+        "common": "Insulated Travel Bottle",
+        "official": "Contigo Insulated Travel Water Bottle"
+      },
+      "brand": {
+        "name": "Contigo"
+      },
+      "price": {
+        "amount": 32,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 600,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Travel Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Silver", "Black"],
+      "features": ["Insulated", "Auto Seal", "Leak Proof"],
+      "ratings": {
+        "average": 4.7,
+        "count": 203
+      },
+      "stock": {
+        "available": true,
+        "quantity": 21
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b006",
+      "name": {
+        "common": "Pure Glass Bottle",
+        "official": "PureLife Borosilicate Glass Water Bottle"
+      },
+      "brand": {
+        "name": "PureLife"
+      },
+      "price": {
+        "amount": 25,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 500,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Glass Bottle"
+      },
+      "material": {
+        "primary": "Glass"
+      },
+      "colors": ["Transparent", "Blue"],
+      "features": ["BPA Free", "Eco Friendly", "Reusable"],
+      "ratings": {
+        "average": 4.4,
+        "count": 98
+      },
+      "stock": {
+        "available": true,
+        "quantity": 14
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b007",
+      "name": {
+        "common": "Mountain Flask",
+        "official": "Mountain Pro Stainless Steel Flask"
+      },
+      "brand": {
+        "name": "MountainPro"
+      },
+      "price": {
+        "amount": 42,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 1000,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Thermal Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Black", "Gray"],
+      "features": ["Double Wall", "Insulated", "Durable"],
+      "ratings": {
+        "average": 4.6,
+        "count": 177
+      },
+      "stock": {
+        "available": true,
+        "quantity": 16
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed0"
+      }
+    },
+
+    {
+      "id": "b008",
+      "name": {
+        "common": "Eco Bamboo Bottle",
+        "official": "Eco Bamboo Sustainable Water Bottle"
+      },
+      "brand": {
+        "name": "EcoLife"
+      },
+      "price": {
+        "amount": 28,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 650,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Eco Bottle"
+      },
+      "material": {
+        "primary": "Bamboo"
+      },
+      "colors": ["Natural", "Brown"],
+      "features": ["Eco Friendly", "Reusable", "Lightweight"],
+      "ratings": {
+        "average": 4.2,
+        "count": 76
+      },
+      "stock": {
+        "available": true,
+        "quantity": 11
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+      }
+    },
+
+    {
+      "id": "b009",
+      "name": {
+        "common": "Daily Hydration Bottle",
+        "official": "DailyFit Reusable Hydration Bottle"
+      },
+      "brand": {
+        "name": "DailyFit"
+      },
+      "price": {
+        "amount": 15,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 700,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Water Bottle"
+      },
+      "material": {
+        "primary": "Plastic"
+      },
+      "colors": ["Pink", "Blue", "White"],
+      "features": ["BPA Free", "Lightweight", "Reusable"],
+      "ratings": {
+        "average": 4.1,
+        "count": 65
+      },
+      "stock": {
+        "available": true,
+        "quantity": 50
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1550505095-81378a674395"
+      }
+    },
+
+    {
+      "id": "b010",
+      "name": {
+        "common": "Premium Steel Bottle",
+        "official": "Premium Stainless Steel Water Bottle"
+      },
+      "brand": {
+        "name": "EverPure"
+      },
+      "price": {
+        "amount": 55,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 1000,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Premium Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Gold", "Black"],
+      "features": ["Insulated", "Premium Finish", "Leak Proof"],
+      "ratings": {
+        "average": 4.9,
+        "count": 321
+      },
+      "stock": {
+        "available": true,
+        "quantity": 9
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b011",
+      "name": {
+        "common": "Kids Fun Bottle",
+        "official": "Kids Fun Reusable Water Bottle"
+      },
+      "brand": {
+        "name": "FunKids"
+      },
+      "price": {
+        "amount": 14,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 400,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Kids Bottle"
+      },
+      "material": {
+        "primary": "Plastic"
+      },
+      "colors": ["Yellow", "Pink", "Blue"],
+      "features": ["BPA Free", "Lightweight", "Easy Grip"],
+      "ratings": {
+        "average": 4.6,
+        "count": 134
+      },
+      "stock": {
+        "available": true,
+        "quantity": 38
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+      }
+    },
+
+    {
+      "id": "b012",
+      "name": {
+        "common": "Office Water Bottle",
+        "official": "OfficePro Stainless Steel Water Bottle"
+      },
+      "brand": {
+        "name": "OfficePro"
+      },
+      "price": {
+        "amount": 29,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 800,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Office Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Silver", "Black"],
+      "features": ["Insulated", "Sleek Design", "Leak Proof"],
+      "ratings": {
+        "average": 4.5,
+        "count": 87
+      },
+      "stock": {
+        "available": true,
+        "quantity": 22
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b013",
+      "name": {
+        "common": "Runner Sports Bottle",
+        "official": "Runner Pro Sports Hydration Bottle"
+      },
+      "brand": {
+        "name": "RunnerPro"
+      },
+      "price": {
+        "amount": 19,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 750,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Sports Bottle"
+      },
+      "material": {
+        "primary": "Plastic"
+      },
+      "colors": ["Orange", "Black"],
+      "features": ["Sports Cap", "BPA Free", "Lightweight"],
+      "ratings": {
+        "average": 4.4,
+        "count": 119
+      },
+      "stock": {
+        "available": true,
+        "quantity": 31
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+      }
+    },
+
+    {
+      "id": "b014",
+      "name": {
+        "common": "Arctic Cold Bottle",
+        "official": "Arctic Cold Insulated Water Bottle"
+      },
+      "brand": {
+        "name": "Arctic"
+      },
+      "price": {
+        "amount": 39,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 900,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Thermal Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["White", "Blue"],
+      "features": ["Cold Retention", "Insulated", "Leak Proof"],
+      "ratings": {
+        "average": 4.7,
+        "count": 201
+      },
+      "stock": {
+        "available": false,
+        "quantity": 0
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed0"
+      }
+    },
+
+    {
+      "id": "b015",
+      "name": {
+        "common": "Minimal Glass Bottle",
+        "official": "Minimal Design Glass Water Bottle"
+      },
+      "brand": {
+        "name": "ClearFlow"
+      },
+      "price": {
+        "amount": 24,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 600,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Glass Bottle"
+      },
+      "material": {
+        "primary": "Glass"
+      },
+      "colors": ["Transparent"],
+      "features": ["Eco Friendly", "BPA Free", "Reusable"],
+      "ratings": {
+        "average": 4.3,
+        "count": 92
+      },
+      "stock": {
+        "available": true,
+        "quantity": 17
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b016",
+      "name": {
+        "common": "Travel Mate Bottle",
+        "official": "Travel Mate Insulated Water Bottle"
+      },
+      "brand": {
+        "name": "TravelMate"
+      },
+      "price": {
+        "amount": 34,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 850,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Travel Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Gray", "Black"],
+      "features": ["Insulated", "Travel Friendly", "Leak Proof"],
+      "ratings": {
+        "average": 4.6,
+        "count": 143
+      },
+      "stock": {
+        "available": true,
+        "quantity": 24
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b017",
+      "name": {
+        "common": "Smart Hydration Bottle",
+        "official": "Smart Hydration Tracking Water Bottle"
+      },
+      "brand": {
+        "name": "SmartFlow"
+      },
+      "price": {
+        "amount": 65,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 750,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Smart Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Black", "Silver"],
+      "features": ["Smart Reminder", "Temperature Display", "Insulated"],
+      "ratings": {
+        "average": 4.8,
+        "count": 275
+      },
+      "stock": {
+        "available": true,
+        "quantity": 7
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+      }
+    },
+
+    {
+      "id": "b018",
+      "name": {
+        "common": "Eco Reusable Bottle",
+        "official": "EcoLife Reusable Sustainable Bottle"
+      },
+      "brand": {
+        "name": "EcoLife"
+      },
+      "price": {
+        "amount": 21,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 700,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Eco Bottle"
+      },
+      "material": {
+        "primary": "Recycled Plastic"
+      },
+      "colors": ["Green", "Blue"],
+      "features": ["Eco Friendly", "BPA Free", "Recyclable"],
+      "ratings": {
+        "average": 4.4,
+        "count": 111
+      },
+      "stock": {
+        "available": true,
+        "quantity": 29
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1550505095-81378a674395"
+      }
+    },
+
+    {
+      "id": "b019",
+      "name": {
+        "common": "Gym Power Bottle",
+        "official": "Gym Power Large Sports Water Bottle"
+      },
+      "brand": {
+        "name": "GymPower"
+      },
+      "price": {
+        "amount": 23,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 1500,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Sports Bottle"
+      },
+      "material": {
+        "primary": "Plastic"
+      },
+      "colors": ["Black", "Red"],
+      "features": ["Large Capacity", "Sports Cap", "BPA Free"],
+      "ratings": {
+        "average": 4.5,
+        "count": 167
+      },
+      "stock": {
+        "available": true,
+        "quantity": 20
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+      }
+    },
+
+    {
+      "id": "b020",
+      "name": {
+        "common": "Luxury Thermal Bottle",
+        "official": "Luxury Premium Thermal Water Bottle"
+      },
+      "brand": {
+        "name": "LuxBottle"
+      },
+      "price": {
+        "amount": 75,
+        "currency": "USD"
+      },
+      "capacity": {
+        "value": 1000,
+        "unit": "ml"
+      },
+      "category": {
+        "name": "Premium Bottle"
+      },
+      "material": {
+        "primary": "Stainless Steel"
+      },
+      "colors": ["Gold", "Black", "Silver"],
+      "features": ["Double Wall", "Premium Finish", "Insulated", "Leak Proof"],
+      "ratings": {
+        "average": 5.0,
+        "count": 89
+      },
+      "stock": {
+        "available": true,
+        "quantity": 5
+      },
+      "image": {
+        "png": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed0"
+      }
+    }
+  ]
+}
